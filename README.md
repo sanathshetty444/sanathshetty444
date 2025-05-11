@@ -128,7 +128,7 @@ Founding Engineer and Senior Software Engineer with 4+ years of experience desig
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanathshetty444&show_icons=true&count_private=true&hide_border=true&theme=react" alt="GitHub Stats" />
@@ -136,7 +136,7 @@ Founding Engineer and Senior Software Engineer with 4+ years of experience desig
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanathshetty444&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophy" />
-</div>
+</div> -->
 
 ### 📈 Contribution Overview
 
