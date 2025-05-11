@@ -13,7 +13,7 @@
 
 Founding Engineer and Senior Software Engineer with 4+ years of experience designing and developing scalable applications. I'm passionate about building high-performance systems with exceptional reliability and solving complex technical challenges.
 
-- 🏢 Currently working as a **Founding Engineer (SDE 3)** at **Aerem**, where I've led the development of multiple web and mobile applications that process ₹30+ crores monthly
+- 🏢 Worked as a **Founding Engineer (SDE 3)** at **Aerem**, where I've led the development of multiple web and mobile applications that process ₹30+ crores monthly
 - 🏗️ Architect of **multi-tenant SaaS solutions** and **high-availability systems** designed for scale and reliability
 - 💡 Specializing in **backend-centric development**, **performance optimization**, and **system architecture**
 - 🥇 Won 7+ national-level hackathons while competing in both national and international events
